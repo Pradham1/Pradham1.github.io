@@ -40391,7 +40391,7 @@ n=A.Wp(o,A.dg(A.bh("Never Oversleep again",p,p,A.bd(p,p,A.U(a).ax.k3,p,p,p,p,p,p
 m=A.U(a).ax.k3
 m=A.bh("Play a game to turn your alarm off, \n add friction to your snooze to stay awake",p,p,A.bd(p,p,A.ad(153,m.n()>>>16&255,m.n()>>>8&255,m.n()&255),p,p,p,p,p,p,p,p,20,p,p,p,p,1.5,!0,p,p,p,p,p,p,p,p),B.bM)
 o=t.p
-s=A.fU(A.c([A.wM(p,A.amR("images/GooglePlayBadge.png",p,p,67,p),B.aw,!1,p,p,p,p,p,p,p,p,p,p,p,p,p,new A.a09(),p,p,p)],o),B.T,B.fU,B.A)
+s=A.fU(A.c([A.wM(p,A.amR("assets/images/GooglePlayBadge.png",p,p,67,p),B.aw,!1,p,p,p,p,p,p,p,p,p,p,p,p,p,new A.a09(),p,p,p)],o),B.T,B.fU,B.A)
 r=A.dO(24)
 q=A.dO(24)
 return A.dg(A.f8(new A.ed(B.eQ,A.cE(A.c([n,B.kB,m,B.xT,s,B.xT,A.dg(A.Wp(r,A.dg(A.amR("images/AppShowcase.png",new A.a0a(),B.zl,p,3),B.q,p,p,new A.cD(p,p,p,q,p,p,B.ae),p,p,p,p)),B.q,p,B.zk,p,p,p,p,p)],o),B.T,B.y,B.A),p),p,p),B.q,p,p,p,p,p,B.iV,p)}}
@@ -40408,7 +40408,7 @@ N(a){var s,r,q,p,o=null,n=A.U(a).fx
 n=A.ad(204,n.n()>>>16&255,n.n()>>>8&255,n.n()&255)
 s=A.ad(B.d.ai(25.5),B.i.n()>>>16&255,B.i.n()>>>8&255,B.i.n()&255)
 r=t.p
-q=A.c([A.x4(!1,!0,A.fU(A.c([A.Wp(A.dO(12),A.amR("images/8BitAlarmIcon1.png",o,o,o,7)),B.cy,A.bh("8BitAlarm",o,o,A.bd(o,o,A.U(a).ax.k3,o,o,o,o,o,o,o,o,20,o,o,B.aL,o,o,!0,o,o,o,o,o,o,o,o),o)],r),B.T,B.y,B.A),o,!0,o,o,o,o,o,o,new A.a4L(a),o,o,o)],r)
+q=A.c([A.x4(!1,!0,A.fU(A.c([A.Wp(A.dO(12),A.amR("assets/images/8BitAlarmIcon1.png",o,o,o,7)),B.cy,A.bh("8BitAlarm",o,o,A.bd(o,o,A.U(a).ax.k3,o,o,o,o,o,o,o,o,20,o,o,B.aL,o,o,!0,o,o,o,o,o,o,o,o),o)],r),B.T,B.y,B.A),o,!0,o,o,o,o,o,o,new A.a4L(a),o,o,o)],r)
 if(A.bB(a,o,t.w).w.a.a>600){p=A.c([A.U(a).ax.b,A.U(a).ax.y],t.t_)
 q.push(A.fU(A.c([new A.tX("Email",new A.a4M(),o),B.kA,new A.tX("Privacy",new A.a4N(a),o),B.kA,new A.tX("Terms",new A.a4O(a),o),B.kA,A.x4(!1,!0,A.dg(B.R6,B.q,o,o,new A.cD(o,o,o,A.dO(20),o,new A.jU(B.du,B.eM,B.bO,p,o,o),B.ae),o,o,B.CC,o),o,!0,o,o,o,o,o,o,new A.a4P(),o,o,o)],r),B.T,B.y,B.A))}return A.dg(A.f8(new A.ed(B.eQ,A.fU(q,B.T,B.jV,B.A),o),o,o),B.q,o,o,new A.cD(n,o,new A.cZ(B.o,B.o,new A.bE(s,1,B.F,-1),B.o),o,o,o,B.ae),o,o,B.CE,o)}}
 A.a4L.prototype={
